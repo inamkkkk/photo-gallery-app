@@ -1,0 +1,16 @@
+### Flutter ###
+*.iml
+.idea/
+.dart_tool/
+.flutter-plugins
+.flutter-plugin-dependencies
+build/
+.DS_Store
+profile_data
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Frameworks/
+**/ios/Podfile.lock
+**/android/local.properties
+**/android/app/build/
+coverage/
